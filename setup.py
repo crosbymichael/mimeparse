@@ -7,7 +7,7 @@ from distutils.core import setup
 #from setuptools import setup, find_packages
 
 setup(name='mimeparse',
-      version='0.1.3',
+      version='0.1.5',
       description='A module provides basic functions for parsing mime-type names and matching them against a list of media-ranges.',
       long_description="""
 This module provides basic functions for handling mime-types. It can handle
